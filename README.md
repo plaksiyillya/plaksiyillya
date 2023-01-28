@@ -1,5 +1,17 @@
-### Hi there 👋
-![Ring](https://user-images.githubusercontent.com/56319778/215272904-795a0df6-d054-4659-8a30-1f8a571ab250.gif)
+### Hello there!
+
+<a href="https://www.linkedin.com/in/plaksyy/">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/plaksy/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://t.me/plaksyy>
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+</a>
+
+
+
 <!--
 **plaksy/plaksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
