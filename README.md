@@ -1,9 +1,4 @@
-## Hello there!
-
-### Glad to see you here! ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=plaksy.plaksy)
-
-#### You can contact me here:
-
+# Hello there! I am Junior Full-Stack Developer from Ukraine💙💛
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/plaksyy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plaksyy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat-square&logo=Gmail&logoColor=white)](mailto:plaksiyillya@gmail.com)
@@ -15,14 +10,6 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/plaksyy)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/plaksyy)
 
-
-
-
-<!--
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
--->
-
-
 ### My Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -32,9 +19,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=plaksy.plaksy)
+
+
+<!--
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+-->
 
 <!--
 **plaksy/plaksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
