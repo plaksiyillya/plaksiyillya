@@ -30,7 +30,6 @@ I love to code ⌨️, create design and try something new 🔍 . All time learn
 ![mongodb](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![figma](https://img.shields.io/badge/-figma-black?style=flat-square&logo=figma)
-![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 
 ### About myself, my hobbies and non-technical links:
 
