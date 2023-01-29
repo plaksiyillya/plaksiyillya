@@ -1,9 +1,12 @@
-# Hello there! I am Junior Full-Stack Developer
+# Hello there! I am React Full-Stack Developer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/plaksyy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plaksyy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat-square&logo=Gmail&logoColor=white)](mailto:plaksiyillya@gmail.com)
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-430297?style=flat-square&logo=Yahoo&logoColor=white)](mailto:jetcode@yahoo.com)
+[![Figma Badge](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/@plaksy)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00acee?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/plaksy)
+[![Fiverr Badge](https://img.shields.io/badge/-Fiverr-00b22d?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/plaksy)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=plaksy&labelColor=%23000000&countColor=%23ffe11c&style=flat-square)](https://visitorbadge.io/status?path=plaksy)
 
 I love to code ⌨️, create design and try something new 🔍 . All time learner-ambivert. I'm a graduate in Software Engineering 💻 from Ternopil Ivan Puluj National Technical University 🎓. 
  
@@ -31,13 +34,11 @@ I love to code ⌨️, create design and try something new 🔍 . All time learn
 ![mysql](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
 ![figma](https://img.shields.io/badge/-figma-black?style=flat-square&logo=figma)
 
-### About myself, my hobbies and non-technical links:
-
 <details>	
-  <summary><b>🍀 About me</b></summary>
+  <summary><b>🍀 About myself, my hobbies and non-technical links</b></summary>
   <br>
  
-&nbsp;&nbsp;[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/plaksyy)
+&nbsp;&nbsp;&nbsp;[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/plaksyy)
 [![Steam Badge](https://img.shields.io/badge/-Steam-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/plaksy)
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/plaksyy)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/plaksyy)
@@ -52,14 +53,13 @@ I love to code ⌨️, create design and try something new 🔍 . All time learn
 - 🍕 &nbsp; My favorite food are *pizza, steak, cheeseburger and pasta carbonara*.
 - 🍵 &nbsp; Best tea for my opinion is *green with honey and lemon*.
 - 🔭 &nbsp; In fact I have many little hobbies except noted above.
- 
-  <br>
+
 </details>
 
 #
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories! ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=plaksy.plaksy)
+### Thank you for your attention ❤️
 
 </div>
