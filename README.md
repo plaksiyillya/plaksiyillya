@@ -1,5 +1,5 @@
 # Hello there! I am React Full-Stack Developer
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/plaksyy)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/plaksiy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/plaksyy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat-square&logo=Gmail&logoColor=white)](mailto:plaksiyillya@gmail.com)
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-430297?style=flat-square&logo=Yahoo&logoColor=white)](mailto:jetcode@yahoo.com)
