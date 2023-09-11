@@ -5,7 +5,6 @@
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-430297?style=flat-square&logo=Yahoo&logoColor=white)](mailto:jetcode@yahoo.com)
 [![Figma Badge](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/@plaksy)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00acee?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/plaksy)
-[![Fiverr Badge](https://img.shields.io/badge/-Fiverr-00b22d?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/plaksy)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=plaksy&labelColor=%23000000&countColor=%23ffe11c&style=flat-square)](https://visitorbadge.io/status?path=plaksy)
 
 I love to code 🗒️, create design and try something new 🔍 . All time learner-ambivert. I'm a graduate in Software Engineering 💻 from Ternopil Ivan Puluj National Technical University 🎓. 
@@ -42,6 +41,8 @@ I love to code 🗒️, create design and try something new 🔍 . All time lear
 [![Steam Badge](https://img.shields.io/badge/-Steam-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/plaksy)
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/plaksyy)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/plaksyy)
+[![Fiverr Badge](https://img.shields.io/badge/-Fiverr-00b22d?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/plaksy)
+
 
 - 💻 &nbsp; I love exploring new technologies, interested how things works.
 - ♟️ &nbsp; I love playing and improving myself in [Chess](https://www.chess.com/member/plaksy).
