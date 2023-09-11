@@ -5,7 +5,9 @@
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-430297?style=flat-square&logo=Yahoo&logoColor=white)](mailto:jetcode@yahoo.com)
 [![Figma Badge](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/@plaksy)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00acee?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/plaksy)
+<!---
 [![Fiverr Badge](https://img.shields.io/badge/-Fiverr-00b22d?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/plaksy)
+---!>
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=plaksy&labelColor=%23000000&countColor=%23ffe11c&style=flat-square)](https://visitorbadge.io/status?path=plaksy)
 
 I love to code 🗒️, create design and try something new 🔍 . All time learner-ambivert. I'm a graduate in Software Engineering 💻 from Ternopil Ivan Puluj National Technical University 🎓. 
