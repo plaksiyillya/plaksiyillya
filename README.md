@@ -15,7 +15,7 @@ I love to code 🗒️, create design and try something new 🔍 . All time lear
 
 - 💼 &nbsp; I'm currently **looking for job** opportunities! *(JS/TS, React, MUI, NodeJS, Express, ets.)*
 - 📝 &nbsp; You can check my [Resume](#) and my [Portfolio](#) if you interested in
-- 🧑‍💻 &nbsp; I'm currently working on **pet-project** with friends and some **project** by myself
+- 🧑‍💻 &nbsp; I'm currently working on **pet-projects** for myself
 - 🌱 &nbsp; I'm improving my skills in **Full Stack Development** , specially learning NodeJS, Express
 
 ### My current technology stack:
@@ -38,9 +38,9 @@ I love to code 🗒️, create design and try something new 🔍 . All time lear
   <br>
  
 &nbsp;&nbsp;&nbsp;[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/plaksyy)
-[![Steam Badge](https://img.shields.io/badge/-Steam-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/plaksy)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/plaksyy)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/plaksyy)
+[![Steam Badge](https://img.shields.io/badge/-Steam-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/plaksiy)
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/plaksiy)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/plaksiy)
 [![Fiverr Badge](https://img.shields.io/badge/-Fiverr-00b22d?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/plaksy)
 
 
@@ -52,7 +52,7 @@ I love to code 🗒️, create design and try something new 🔍 . All time lear
 - 📖 &nbsp; I like reading too: right now readying *Dune hexalogyby Frank Herbert*
 - 🏀 &nbsp; In sport - i like basketball and playing sometime with friends.
 - 🍕 &nbsp; My favorite food are *pizza, steak, cheeseburger and pasta carbonara*.
-- 🍵 &nbsp; Best tea for my opinion is *green with honey and lemon*.
+- 🍵 &nbsp; Best tea for my opinion is *green with honey, ginger and lemon*.
 - 🔭 &nbsp; In fact I have many little hobbies except noted above.
 
 </details>
