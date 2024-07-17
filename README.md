@@ -5,13 +5,13 @@
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-430297?style=flat-square&logo=Yahoo&logoColor=white)](mailto:jetcode@yahoo.com)
 [![Figma Badge](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/@plaksiy)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-00acee?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/plaksiy)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=plaksy&labelColor=%23000000&countColor=%23ffe11c&style=flat-square)](https://visitorbadge.io/status?path=plaksy)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=plaksiyillya&labelColor=%23000000&countColor=%23ffe11c&style=flat-square)](https://visitorbadge.io/status?path=plaksiyillya)
 
 I love to code 🗒️, create design and try something new 🔍 . All time learner-ambivert. I'm a graduate in Software Engineering 💻 from Ternopil Ivan Puluj National Technical University 🎓. 
  
 ### About work:
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=plaksy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=plaksiyillya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 - 💼 &nbsp; I'm currently **looking for job** opportunities! *(JS/TS, React, MUI, NodeJS, Express, ets.)*
 - 📝 &nbsp; You can check my [Resume](#) and my [Portfolio](#) if you interested in
