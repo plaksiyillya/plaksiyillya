@@ -13,7 +13,7 @@ I love to code 🗒️, create design and try something new 🔍 . All time lear
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=plaksiyillya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-- 💼 &nbsp; *(JS/TS, React, MUI, NodeJS, Express, ets.)*
+- 💼 &nbsp; JS/TS, React, MUI, NodeJS, Express, ets.
 - 📝 &nbsp; You can check my [Resume](#) and my [Portfolio](#) if you interested in
 - 🧑‍💻 &nbsp; I'm currently working on **job-related-projects** and some for myself
 - 🌱 &nbsp; I'm improving my skills in **Full Stack Development** , specially learning NodeJS, Express
